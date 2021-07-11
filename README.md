@@ -11,6 +11,11 @@
 
 ---
 
+## Deployed Site and Repository
+
+https://jdrabot.github.io/user_directory/
+https://github.com/jdrabot/user_directory
+
 ## Description
 
 Gives you a list from an api call that you can then sort through by first and last name
