@@ -1,0 +1,11 @@
+input {
+  text-align: center;
+  background-color: black;
+  color: blanchedalmond;
+}
+
+.center {
+  height: 50px;
+  display: flex;
+  justify-content: center;
+}
